@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background-dark-blue: #A1E1FA;
+  --background-light-blue: #DBEDF3;
+  --darkgreen-font-color: #001C20; 
+}
+
+
+body {
+  background: -webkit-gradient(linear, left top, left bottom, from(#A1E1FA), to(#DBEDF3)) fixed;
+  font-size: 12px;
+}
