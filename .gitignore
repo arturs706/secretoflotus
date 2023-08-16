@@ -40,3 +40,6 @@ client/next-env.d.ts
 solidclient/node_modules
 solidclient/.pnp
 solidclient/.pnp.js
+
+.gitignore
+.env
